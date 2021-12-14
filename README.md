@@ -40,4 +40,33 @@ samples.
 ![image](https://user-images.githubusercontent.com/95513386/145928327-144b0bbd-6cd6-4f57-ba85-9c6572a20464.png)
 
 
+# Reference
+[1] Bo Xie, Yang Mu, Dacheng Tao, and Kaiqi Huang. m-sne: multiview
+stochastic neighbor embedding. IEEE Transactions on Systems,
+Man, and Cybernetics, Part B: Cybernetics,. 41:1088–1096,
+2011.
 
+[2] Theodoulos Rodosthenous, Vahid Shahrezaei, and Marina Evangelou.
+Multi-View Data Visualization Via Manifold Learning.
+arXiv:2101.06763 , 2021.
+
+[3] Laurens van der Maaten and Geoffrey Hinton. Visualising data using
+t-sne. Journal of Machine Learning Research, 9:2579–2605,
+2008.
+
+[4] Leland McInnes, John Healy, James Melville. UMAP: Uniform
+Manifold Approximation and Projection for Dimension Reduction
+arXiv:1802.03426. 2018.
+
+[5] George C. Linderman and Stefan Steinerberger. Clustering with
+t-sne, provably. SIAM Journal on Mathematics of Data Science,
+1(2):313–332, 2019.
+
+[6] Solomon Kullback and Richard A. Leibler. On information and sufficiency.
+22:79–86, 1951.
+
+[7] https://archive.ics.uci.edu/ml/datasets/Multiple+Features
+
+[8] http://compbio.cs.toronto.edu/SNF/SNF/Software.html
+
+[9] https://github.com/yeqinglee/mvdata
