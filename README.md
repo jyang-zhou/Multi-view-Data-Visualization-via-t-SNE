@@ -1,10 +1,12 @@
 # Multi-view Data Visualization via t-SNE
 
-mSNE and multi-SNE are implemented on different types of data, where mSne and multi-SNE are two different methods to visualize multi-view data. 
+mSNE and multi-SNE are implemented on different types of data, where mSne and multi-SNE are two different methods to visualize multi-view data. We extended the code from T. Rodosthenous, V. Shahrezaei, and M. Evangelou [3].
 
 Please see sample code for more detail.
 
 Work with [Yuan Hui](yhui@uchicago.edu).
+
+
 
 # Data Description
 [Handwritten Digits](https://archive.ics.uci.edu/ml/datasets/Multiple+Features): Consists of features on handwritten numerals (0 - 9) extracted from a collection of Dutch utility maps. 200 patterns per class (for a total of 2000 patterns) have been digitised in binary images. These digits
