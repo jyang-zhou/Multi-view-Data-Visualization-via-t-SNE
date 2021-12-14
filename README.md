@@ -23,7 +23,7 @@ The first three data-views follow the same structure as in the toy example, whil
 completely noisy data-view, i.e. all data points lie in a single cluster. pv = 100; 8v, n = 300, equally balanced data
 samples.
 
-Visualization and Accuracy
+# Visualization and Accuracy
 
 ![image](https://user-images.githubusercontent.com/95513386/145927961-a8278201-8c83-4ff0-b228-d250f0e3b3c8.png)
 
