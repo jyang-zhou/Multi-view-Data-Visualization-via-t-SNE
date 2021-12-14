@@ -2,7 +2,9 @@
 
 mSNE and multi-SNE are implemented on different types of data, where mSne and multi-SNE are two different methods to visualize multi-view data. 
 
-Please see sample code for more detail
+Please see sample code for more detail.
+
+Data set used can be found in Data-set Folder. 
 
 Visualization and Accuracy
 
