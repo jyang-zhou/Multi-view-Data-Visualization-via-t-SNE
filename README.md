@@ -16,7 +16,7 @@ Visualization and Accuracy
 
 ![image](https://user-images.githubusercontent.com/95513386/145928017-21e57f94-677c-4876-bbb6-8964f41251fc.png)
 
-![image](https://user-images.githubusercontent.com/95513386/145928145-e3214966-03c1-42cc-a011-3fcd922346d0.png)
+![image](https://user-images.githubusercontent.com/95513386/145928327-144b0bbd-6cd6-4f57-ba85-9c6572a20464.png)
 
 
 
