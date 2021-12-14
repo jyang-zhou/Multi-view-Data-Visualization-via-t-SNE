@@ -1,6 +1,6 @@
 # Multi-view Data Visualization via t-SNE
 
-mSNE and multi-SNE are implemented on different types of data, where mSne and multi-SNE are two different methods to visualize multi-view data. We extended the code from T. Rodosthenous, V. Shahrezaei, and M. Evangelou [3].
+mSNE and multi-SNE are implemented on different types of data, where mSne and multi-SNE are two different methods to visualize multi-view data. We extended the  work in the paper [Multi-View Data Visualization Via Manifold Learning](https://arxiv.org/abs/2101.06763) from T. Rodosthenous, V. Shahrezaei, and M. Evangelou [2].
 
 Please see sample code for more detail.
 
